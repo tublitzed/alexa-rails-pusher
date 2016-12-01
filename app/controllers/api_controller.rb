@@ -13,6 +13,28 @@ class ApiController < ApplicationController
       data: ActiveSupport::JSON.decode(request.raw_post)
     })
 
-    render :json => { success: true }
+    render :json => sample_json_response
+  end
+
+  private
+
+  def sample_json_response
+    {
+      "version": "1.0",
+      "response": {
+        "outputSpeech": {
+          "type": "PlainText",
+          "text": "This is a sample response from the website...."
+        },
+        "reprompt": {
+          "outputSpeech": {
+            "type": "PlainText",
+            "text": ""
+          }
+        },
+        "shouldEndSession": true
+      },
+      "sessionAttributes": {}
+    }
   end
 end
