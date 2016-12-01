@@ -1,4 +1,6 @@
-SECRET_KEY_BASE: "key"
 PUSHER_APP_ID: "your-app-id-here"
 PUSHER_APP_KEY: "your-app-key-here"
 PUSHER_APP_SECRET: "your-app-secret-here"
+
+RAILS_ENV: "development"
+SECRET_KEY_BASE: "key"

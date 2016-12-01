@@ -6,3 +6,8 @@ config/database.yml
 
 config/deploy
 deploy.rb
+
+
+shared/pids
+shared/sockets
+shared/log
