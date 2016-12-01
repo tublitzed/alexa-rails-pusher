@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "Red"
+    },
+    {
+      "intent": "Orange"
+    },
+    {
+      "intent": "Yellow"
+    },
+    {
+      "intent": "Green"
+    },
+    {
+      "intent": "Blue"
+    },
+    {
+      "intent": "Purple"
+    },
+    {
+      "intent": "Pink"
+    },
+    {
+      "intent": "Black"
+    },
+    {
+      "intent": "White"
+    }
+  ]
+}

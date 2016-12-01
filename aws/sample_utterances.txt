@@ -1,0 +1,35 @@
+Red red
+Red show me red
+Red turn red
+
+Orange orange
+Orange show me orange
+Orange turn orange
+
+Yellow yellow
+Yellow show me yellow
+Yellow turn yellow
+
+Green green
+Green show me green
+Green turn green
+
+Blue blue
+Blue show me blue
+Blue turn blue
+
+Purple purple
+Purple show me purple
+Purple turn purple
+
+Pink pink
+Pink show me pink
+Pink turn pink
+
+Black black
+Black show me black
+Black turn black
+
+White white
+White show me white
+White turn white
